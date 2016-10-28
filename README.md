@@ -3,7 +3,7 @@
 #### By Camila Vieira and Tarun Khanna
 **28 October 2016**
 
-###Determinants of Renewable Energy Investments - An EU Cross-Country Analysis 
+##Determinants of Renewable Energy Investments - An EU Cross-Country Analysis 
 
 ### Description
 This repository is created for the 2nd Assignment of the course [MPP-E1180: Introduction to Collaborative Social Science Data Analysis](). It has been developed as part of a largee research project to be presented at the end of the mentioned course. 
