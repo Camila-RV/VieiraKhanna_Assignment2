@@ -1,0 +1,45 @@
+---
+title: "MPP-E1180: Collaborative Social Data Analysis Assignment 2"
+author: "Camila Vieira & Tarun Khanna"
+date: "28 October 2016"
+output: pdf_document
+bibliography: 
+- bibliography.bib
+- RpackageCitations.bib
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+pkgs <- c('dplyr', 'ggplot2')
+repmis::LoadandCite(pkgs, file = 'RpackageCitations.bib')
+
+```
+
+## Introduction
+
+Today it is widely known the fact that climate change imposes real challenges to societies' environmental and economic wellbeing. This state of affairs urges us to think on ways to cope with the effects of climate change as well as finding potential alternatives to the roots of this human-caused phenomenon. Not surprisingly this pressure has put into question the current energy sources in use which have contributed to high levels of pollution worldwide. As a means to deal with this challenge, renewable energy sources have been increasingly adopted especially in Europe. Recent studies of @eyraud2011s and @del2014determinants identified that renewable energy sources will be the key drivers of the energy sector in coming years. Our main goal with this research project is to detect what are the determinants of investments in renewable sources of energy, namely wind and solar power energy, across European countries and to what extend the economic growth, changes in fuel prices, and 
+
+## Research Project
+This research proposal aims to analyze what are the key determinants of green investments in renewable energy sources. 
+
+@del2014determinants
+
+@eyraud2011s
+
+@R-dplyr
+@CiteR
+
+
+## Hypotheses
+
+## Data Sources and Methodology
+
+##References
+
+
+
+
+[^KEY]: This is a footnote.
+
+
