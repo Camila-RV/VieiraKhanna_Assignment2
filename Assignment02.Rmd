@@ -12,7 +12,7 @@ bibliography:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 pkgs <- c('dplyr', 'ggplot2')
-repmis::LoadandCite(pkgs, file = 'RpackageCitations.bib')
+#repmis::LoadandCite(pkgs, file = 'RpackageCitations.bib')
 
 ```
 
@@ -28,22 +28,22 @@ Two thirds of total carbon dioxide emissions in the world come from the energy s
 
 The increasing importance of generating cleaner energy as a mitigation measure led the IMF to publish a article in its 2013 Energy Policy Journal containing explanation and trend analysis of the green investments. This research articles served as a bases for @ilas2014macroeconomic study on the factors affecting green investments at an international level. And now we aim to apply a similar methodology to verify the determinants of green investments in EU countries. 
 
-## Research Project
+## Determinants of Renewable Energy 
 
-This research aims to identify  key determinants of green investments in renewable energy sources in Europe. This is done by analyzing data on economic, demographic, and political factors which may be responsible for delimiting a scenario for investment opportunities. We start this project having the following assumptions in mind. 
+This research aims to identify  key determinants of green investments in renewable energy sources in Europe. This is done by analyzing data on economic, demographic, and political factors which may be responsible for delimiting a scenario for investment opportunities. We start this project having the following hypothesis. 
 
--Economic growth and income generate a higher demand for energy and clean air, and the same can be said about increasing population levels.
+* Economic growth and income generate a higher demand for energy and clean air, and the same can be said about increasing population levels.
 
--Innovation is essential for advancements in the energy sector as to guarantee environmental-friendly efficiency. It means that human capital and new technologies may play an important role behind green investments. Therefore, by veryfing the percentage of GDP which has been allocated to Research and Development as well as enrollments in tertiary education in EU countries we can attest the role of innovation in investments in renewable energy sources. An alternative would be to look at the number of renewable energy patents filed in each country. 
+* Innovation is essential for advancements in the energy sector as to guarantee environmental-friendly efficiency. It means that human capital and new technologies may play an important role behind green investments. Therefore, by veryfing the percentage of GDP which has been allocated to Research and Development as well as enrollments in tertiary education in EU countries we can attest the role of innovation in investments in renewable energy sources. An alternative would be to look at the number of renewable energy patents filed in each country. 
 
--The macroeconomic theory on interest rates, which states that low interest rates are beneficial for long-run investments as it ensures availiability of larger amounts of capital. 
+* The macroeconomic theory on interest rates, which states that low interest rates are beneficial for long-run investments as it ensures availiability of larger amounts of capital. 
 
--The costs of fossil fuels' energy. The higher the prices of fossil fuels give an incentive for a reduction in renewable energy sources costs. Therefore, we can assume that increases in fossil fuels' prices have a positive effect on the green investments. 
+* The costs of fossil fuels' energy. The higher the prices of fossil fuels give an incentive for a reduction in renewable energy sources costs. Therefore, we can assume that increases in fossil fuels' prices have a positive effect on the green investments. 
 
 Besides those macroeconomic indicators, countries' political tendencies (including support of renewable energy among the voters) and energy-related policies, such as carbon taxes, cap-and-trade limits, and feed-in-tariffs, may encourage or discourage green investments.
 
 ## Data Sources and Methodology
-A panel data approach will be used to assess the determinants of green investments in EU countries. This cross-country analysis will take into account historical data from Eurostat and World Bank databases covering the period 2010-2015. The model is estimated in real terms using fixed effects methodology. The impact on green investment is calculated on the basis of covarities exposed in the previous section and takes into account country specific fixed effects. 
+A panel data approach will be used to assess the determinants of green investments in EU countries. This cross-country analysis will take into account historical data from Bloomberg, Eurostat and World Bank databases covering the period 2010-2015. The model is estimated in real terms using fixed effects methodology. The impact on green investment is calculated on the basis of covarities exposed in the previous section and takes into account country specific fixed effects. 
 
 ##References
 
