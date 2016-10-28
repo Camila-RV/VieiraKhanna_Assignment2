@@ -14,6 +14,6 @@ For the purpose of this second assignment the authors present a research proposa
 
 In addition to this README, one may find the following files in the repository:
 
-- [Assignment02_Rmarkdown.pdf]() is pdf-document with the main research project proposal
+- [Assignment02_Rmarkdown.pdf](https://github.com/Camila-RV/VieiraKhanna_Assignment2/blob/master/Assignment02.pdf) is pdf-document with the main research project proposal
 - [Assignment02.Rmd](https://github.com/Camila-RV/VieiraKhanna_Assignment2/blob/master/Assignment02.Rmd) is a mark down document with the research proposal in raw form
 - [bibliography.bib](https://github.com/Camila-RV/VieiraKhanna_Assignment2/blob/master/bibliography.bib) is the BibTeX format containing the references of the study
